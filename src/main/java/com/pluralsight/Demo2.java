@@ -6,7 +6,8 @@ public class Demo2 {
      int x = 7;
      int a = 7;
      int y = x++;
-     int z =++a;
+     int z = ++a;
+
 
      System.out.println(x);
      System.out.println(a);
