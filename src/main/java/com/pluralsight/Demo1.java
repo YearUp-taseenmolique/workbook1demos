@@ -6,8 +6,8 @@ public class Demo1 {
         System.out.println("Hello World!");
 
         char status = 'm';
-        int identifior = 1;
-        String name = "Taseem";
+        int identity = 1;
+        String name = "Taseen";
 
 
         String greeting = "Hello " + name;
